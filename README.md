@@ -2,20 +2,6 @@
 
 Welcome to my data science portfolio! This repository showcases my data science projects, all beautifully presented using Bootstrap 5 templates and HTML files. Dive in to explore the projects and gain insights into various data analysis and machine learning tasks.
 
-## How to Run Locally
-
-1. Clone this repository to your local machine:
-   ```
-   git clone https://github.com/your-username/your-portfolio.git
-   ```
-
-2. Navigate to the directory of the cloned repository:
-   ```
-   cd your-portfolio
-   ```
-
-3. Open the HTML files of the data science projects using a web browser.
-
 ## Deployment Steps Guide
 
 ### Uploading to GitHub Pages
